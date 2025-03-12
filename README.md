@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Nick-Maro
+
+my commits:
 ![snake gif](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
 <!--
 **Nick-Maro/Nick-Maro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
