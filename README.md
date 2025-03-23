@@ -1,5 +1,5 @@
 ## Hi, I'm Nick-Maro
-
+<img src="https://raw.githubusercontent.com/USER/ocbadge/main/card.svg"/>
 my commits:
 ![snake gif](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
 <!--
