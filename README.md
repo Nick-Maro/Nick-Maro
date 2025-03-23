@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge/main/card.svg"/>
+    [<img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge/main/card.svg"/>](https://github.com/Nick-Maro/ocbadge_themes/blob/main/card.svg)
 </div>
