@@ -3,7 +3,7 @@
 My commits:  
 ![snake gif](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
 
-<div align="center">
+<div>
     
 [[![Leetcode Stats](https://leetcard.jacoblin.cool/nick007sbt)](https://leetcode.com/nick007sbt
 )]
