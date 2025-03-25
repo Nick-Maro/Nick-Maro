@@ -1,6 +1,5 @@
 # Hi, im Nick-Maro
 
-### My Portfolio
 <a href="https://marottanicolo.netlify.app">
   <img src="https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge" alt="Visit My Portfolio">
 </a>
