@@ -1,8 +1,5 @@
 # Hi, im Nick-Maro
 
-## My GitHub Journey
-Passionate about coding, problem-solving, and continuous learning.
-
 ### My Commits
 ![GitHub Snake Contribution Graph](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
 
