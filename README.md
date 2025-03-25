@@ -1,15 +1,23 @@
-## Hi, I'm Nick-Maro
+# Hi, I'm Nick Maro! 👋
 
-My commits:  
-![snake gif](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
+## My GitHub Journey
+Passionate about coding, problem-solving, and continuous learning.
 
-<div style="position: relative; text-align: center;">
-    <a href="https://leetcode.com/nick007sbt" style="display: inline-block; margin-right: 20px;">
-        <img src="https://leetcard.jacoblin.cool/nick007sbt" alt="Leetcode Stats" style="max-width: 300px; height: auto;">
-    </a>
-    <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge_themes/main/card.svg" alt="OC Badge" style="max-width: 100px; height: auto; position: absolute; top: 50%; transform: translateY(-50%);">
+### My Commits
+![GitHub Snake Contribution Graph](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
+
+### My Coding Stats
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://leetcode.com/nick007sbt">
+    <img src="https://leetcard.jacoblin.cool/nick007sbt" alt="Leetcode Stats" style="max-width: 300px; height: auto;">
+  </a>
+  <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge_themes/main/card.svg" alt="OC Badge" style="max-width: 100px; height: auto;">
 </div>
+
+### My Portfolio
 <a href="https://marottanicolo.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge" alt="Visit My Portfolio">
+  <img src="https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge" alt="Visit My Portfolio">
 </a>
+
+
 
