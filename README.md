@@ -6,5 +6,8 @@ My commits:
 <div align="center">
     <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge_themes/main/card.svg"/>
 </div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+
+[[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/nick007sbt
+)](https://leetcard.jacoblin.cool/nick007sbt?theme=dark&font=Noto%20Sans&ext=activity)
+
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge)](https://marottanicolo.netlify.app)
