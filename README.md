@@ -4,7 +4,7 @@ My commits:
 ![snake gif](https://github.com/Nick-Maro/Nick-Maro/blob/output/github-snake-dark.svg)
 
 <div align="center">
-    ![]https://leetcard.jacoblin.cool/nick007sbt?theme=dark&font=Noto%20Sans&ext=activity
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/nick007sbt?theme=dark&font=Noto%20Sans&ext=activity)
     <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge_themes/main/card.svg"/>
 </div>
 
