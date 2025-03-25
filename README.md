@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 -->
 <div align="center">
         <img src="https://raw.githubusercontent.com/Nick-Maro/ocbadge_themes/main/card.svg"/>
-        <a href="https://marottanicolo.netlify.app>Portfolio</a>
 </div>
-
+<a href="https://marottanicolo.netlify.app>Portfolio</a>
