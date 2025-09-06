@@ -8,9 +8,9 @@
 
 🔹 Finalist at the **Italian Cybersecurity Olympics (OliCyber)**  
 🔹 Experience in **Frontend Development (React, HTML, CSS, JS)** and **Backend (Node.js, Express, AWS)**  
-🔹 Active in **CTFs** and security challenges 🔐  
+🔹 Active in **CTFs** and security challenges   
 
-📈 Continuously expanding my **project portfolio** across web development, security, and automation  
+Continuously expanding my **project portfolio** across web development, security, and automation  
 
 ---
 
